@@ -1,0 +1,15 @@
+**PRESENTACIÓN DEL PROBLEMA**
+
+En el presente trabajo, se desarrolla un análisis de los datos correspondientes a los usuarios del sistema bancario/crediticio que cuentan con préstamos actualmente. El dataset contiene información sobre más de 32.000 registros y 12 variables. La finalidad de este trabajo será conocer cuáles son las variables que más afectan al status(default o no) de un préstamo, y poder armar un modelo que detecte en base a las variables más relevantes si un potencial cliente entrará en default o no. Nuestro problema es de clasificación.
+
+Aclaración: En el presente trabajo se utilizarán las palabras préstamo y crédito como sinónimas.
+
+
+**DATASET ELEGIDO**
+
+Credit Risk Dataset (https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+
+Me parecio que el análisis del sector crediticio es más interesante y tiene mucho uso en la práctica bancaria actual , aparte he trabajado en el sector bancario, como por ejemplo veo que automáticamente nos ofrecen préstamos, tarjetas de crédito, entre otros. O por ejemplo al asistir a una sucursal bancaria, simplemente con tu DNI, pueden por sistema ver si tienes alguna oferta disponible.
+
+
+Gino Luciano Rojo
